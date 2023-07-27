@@ -21,5 +21,6 @@ int n1=s.nextInt();
 int n2=s.nextInt();
 CalciImpl c=new CalciImpl();
 int sum=c.getSum(n1,n2);
+System.out.println(sum is n1+"+"n2);
 }
 }
